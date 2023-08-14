@@ -1,0 +1,14 @@
+{
+  "name": "skills-copilot-codespaces-vscode",
+  "description": "<header>",
+  "version": "1.0.0",
+  "main": "comments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
